@@ -1,6 +1,3 @@
-<!-- Header Banner (You can replace the URL with your custom image) -->
-![Banner](https://via.placeholder.com/1200x300?text=Yahya+El+Ourdighi+Cybersecurity+Specialist)
-
 # Hi, I'm **Yahya El Ourdighi** 👋
 
 I am a **Cybersecurity Specialist** focused on penetration testing, threat analysis, and securing digital infrastructures.
@@ -13,7 +10,6 @@ I am passionate about protecting digital assets and improving cybersecurity defe
 
 - **Languages:** Python, Bash, C/C++
 - **Tools:** Nmap, Metasploit, Wireshark, Burp Suite
-- **Certifications:** CEH, OSCP, [Other Relevant Certs](#)
 
 ---
 
