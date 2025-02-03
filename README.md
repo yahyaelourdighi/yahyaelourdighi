@@ -83,7 +83,7 @@ I am passionate about protecting digital assets and improving cybersecurity defe
 ## 📊 GitHub Stats
 
 <!-- Dynamic GitHub stats card (optional) -->
-![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyaelourdighi&show_icons=true&theme=radical)
 
 ---
 
