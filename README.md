@@ -17,42 +17,42 @@ I am passionate about protecting digital assets and improving cybersecurity defe
 ### CTI-IP-Scanner
 **CTI-IP Scanner** is a Python tool designed for analyzing IP addresses using the VirusTotal API. It provides detailed insights into each IP's reputation based on reports from multiple antivirus engines.  
 **Language:** Python  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/CTI-IP-Scanner?style=social)](https://github.com/yourusername/CTI-IP-Scanner)
+[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/CTI-IP-Scanner?style=social)](https://github.com/yahyaelourdighi/CTI-IP-Scanner)
 
 ---
 
 ### CTI-Malware Scanner
 **CTI-Malware Scanner** is a Python-based cybersecurity tool that leverages the VirusTotal API to analyze file hashes for potential malware. It identifies whether files are malicious or clean based on comprehensive analysis.  
 **Language:** Python  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/malwarescanner?style=social)](https://github.com/yourusername/malwarescanner)
+[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/malwarescanner?style=social)](https://github.com/yahyaelourdighi/malwarescanner)
 
 ---
 
 ### UpRobot
 **UpRobot** is a simple and powerful website monitoring tool that checks the "UP" and "DOWN" statuses of websites, ensuring they remain accessible and functional.  
 **Language:** Python (or update if different)  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/uprobot?style=social)](https://github.com/yourusername/uprobot)
+[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/uprobot?style=social)](https://github.com/yahyaelourdighi/uprobot)
 
 ---
 
 ### Entra ID Deployment
 **Entra ID Deployment** focuses on streamlining identity management by deploying and configuring Entra ID solutions across cloud environments. This project includes scripts and automation tools for smoother integration and management of identities.  
 **Technologies:** PowerShell, Azure CLI, Infrastructure as Code  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/entra-id-deployment?style=social)](https://github.com/yourusername/entra-id-deployment)
+[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/entra-id-deployment?style=social)](https://github.com/yahyaelourdighi/entra-id-deployment)
 
 ---
 
 ### Sophos XG Integration
 **Sophos XG Integration** involves the deployment and configuration of Sophos XG firewall solutions to secure network environments. The project includes automation for setup, monitoring, and reporting to enhance network defense mechanisms.  
 **Technologies:** Python, REST APIs, Network Automation  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/sophos-xg-integration?style=social)](https://github.com/yourusername/sophos-xg-integration)
+[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/sophos-xg-integration?style=social)](https://github.com/yahyaelourdighi/sophos-xg-integration)
 
 ---
 
 ### Captive Portal
 **Captive Portal** is designed to manage and secure user access on public or guest networks. The project implements a portal for secure authentication and access control, ensuring only authorized users gain network access.  
 **Technologies:** HTML, CSS, JavaScript, Python/Node.js (backend)  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/captive-portal?style=social)](https://github.com/yourusername/captive-portal)
+[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/captive-portal?style=social)](https://github.com/yahyaelourdighi/captive-portal)
 
 ---
 
@@ -66,7 +66,7 @@ I am passionate about protecting digital assets and improving cybersecurity defe
 ### Secure SSO
 **Secure SSO (Single Sign-On)** is aimed at providing a unified, secure authentication experience across multiple applications. This project includes the configuration of SSO systems that reduce password fatigue while enhancing security.  
 **Technologies:** SAML, OAuth, OpenID Connect, JavaScript, Python  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/secure-sso?style=social)](https://github.com/yourusername/secure-sso)
+[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/secure-sso?style=social)](https://github.com/yahyaelourdighi/secure-sso)
 
 ---
 
