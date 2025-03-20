@@ -30,7 +30,7 @@ I am passionate about protecting digital assets and improving cybersecurity defe
 
 ### UpRobot
 **UpRobot** is a simple and powerful website monitoring tool that checks the "UP" and "DOWN" statuses of websites, ensuring they remain accessible and functional.  
-**Language:** Python (or update if different)  
+**Language:** Python 
 [![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/uprobot?style=social)](https://github.com/yahyaelourdighi/uprobot)
 
 ---
