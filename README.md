@@ -1,101 +1,46 @@
-# Hi, I'm **Yahya El Ourdighi** 👋
-
-I am a **Cybersecurity Specialist** focused on penetration testing, threat analysis, and securing digital infrastructures.
+# Hi, I'm Yahya El Ourdighi 👋
+I am a Cybersecurity Specialist focused on **SOC operations, threat hunting, incident response, and securing digital infrastructures**.  
 
 ---
 
 ## 🔐 About Me
-
-I am passionate about protecting digital assets and improving cybersecurity defenses. With experience in using advanced tools and techniques, I work to identify vulnerabilities and secure systems before they are exploited.
-
-- **Languages:** Python, Bash, C/C++
-- **Tools:** Nmap, Metasploit, Wireshark, Burp Suite
-
----
-## 🚀 Projects & Contributions
-
-### CTI-IP-Scanner
-**CTI-IP Scanner** is a Python tool designed for analyzing IP addresses using the VirusTotal API. It provides detailed insights into each IP's reputation based on reports from multiple antivirus engines.  
-**Language:** Python  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/CTI-IP-Scanner?style=social)](https://github.com/yahyaelourdighi/CTI-IP-Scanner)
-
----
-
-### CTI-Malware Scanner
-**CTI-Malware Scanner** is a Python-based cybersecurity tool that leverages the VirusTotal API to analyze file hashes for potential malware. It identifies whether files are malicious or clean based on comprehensive analysis.  
-**Language:** Python  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/malwarescanner?style=social)](https://github.com/yahyaelourdighi/malwarescanner)
-
----
-
-### UpRobot
-**UpRobot** is a simple and powerful website monitoring tool that checks the "UP" and "DOWN" statuses of websites, ensuring they remain accessible and functional.  
-**Language:** Python 
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/uprobot?style=social)](https://github.com/yahyaelourdighi/uprobot)
-
----
-
-### Entra ID Deployment
-**Entra ID Deployment** focuses on streamlining identity management by deploying and configuring Entra ID solutions across cloud environments. This project includes scripts and automation tools for smoother integration and management of identities.  
-**Technologies:** PowerShell, Azure CLI, Infrastructure as Code  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/entra-id-deployment?style=social)](https://github.com/yahyaelourdighi/entra-id-deployment)
-
----
-
-### Sophos XG Integration
-**Sophos XG Integration** involves the deployment and configuration of Sophos XG firewall solutions to secure network environments. The project includes automation for setup, monitoring, and reporting to enhance network defense mechanisms.  
-**Technologies:** Python, REST APIs, Network Automation  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/sophos-xg-integration?style=social)](https://github.com/yahyaelourdighi/sophos-xg-integration)
-
----
-
-### Captive Portal
-**Captive Portal** is designed to manage and secure user access on public or guest networks. The project implements a portal for secure authentication and access control, ensuring only authorized users gain network access.  
-**Technologies:** HTML, CSS, JavaScript, Python/Node.js (backend)  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/captive-portal?style=social)](https://github.com/yahyaelourdighi/captive-portal)
-
----
-
-### Secure Authentication with OAuth
-**Secure Authentication with OAuth** demonstrates the implementation of secure authentication mechanisms using OAuth protocols. The project covers setting up OAuth for third-party integrations and securing API access.  
-**Technologies:** Python, OAuth 2.0, Flask/Django (or your preferred framework)  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/secure-oauth?style=social)](https://github.com/yourusername/secure-oauth)
-
----
-
-### Secure SSO
-**Secure SSO (Single Sign-On)** is aimed at providing a unified, secure authentication experience across multiple applications. This project includes the configuration of SSO systems that reduce password fatigue while enhancing security.  
-**Technologies:** SAML, OAuth, OpenID Connect, JavaScript, Python  
-[![GitHub Repo stars](https://img.shields.io/github/stars/yahyaelourdighi/secure-sso?style=social)](https://github.com/yahyaelourdighi/secure-sso)
+Passionate about protecting digital assets and improving cybersecurity defenses. I have experience in **SIEM/XDR deployment, DR/IR automation, cloud security and identity management**. I focus on detecting threats, securing systems, and automating workflows for faster, more reliable protection.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-51A351?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A6?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E03030?style=flat-square&logo=metasploit&logoColor=white)
+**Languages:** Python, Bash, PowerShell, Knowldge in web dev languages (HTML, CSS, javascript)
+**SOC & Security Tools:** Wazuh, ELK Stack, Graylog, Snort, Suricata, Intercept X, Kaspersky, Acronis, Sophos XGS, Fortigate, SentinelOne.
+**Networking & Systems:** Windows / Windows Server, Linux (Debian, Arch), TCP/IP, VLAN, DNS, DHCP, packet analysis, Wireshark  
+**Cloud & IAM:** Entra ID, AWS IAM, SSO, MFA, Conditional Access  
+**Threat Intelligence:** VirusTotal, Abuse.ch, MalwareBazaar, Talos, CrowdSec, MISP, HoneyDB, SophosLabs, Wazuh CTI  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Key Projects & Contributions
 
-<!-- Dynamic GitHub stats card (optional) -->
-![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyaelourdighi&show_icons=true&theme=radical)
+- **Enterprise Wazuh SIEM Deployment** – Deployed SIEM with real-time alerting on 50+ devices and integrated Docker Swarm CI/CD automation.  
+- **Active Directory Hardening** – Reduced AD security risks by 60% using PingCastle and CIS benchmarks.  
+- **Identity & Access Management** – Enabled MFA and SSO for 1500+ users using Entra ID, improving authentication security posture.  
+- **Cybersecurity Training & CTFs** – Built and deployed CTF & Labs platform for 200+ participants, organized workshops, and ranked top 6/500+ teams in **Akasec CyberOdyssey 2024**.  
+- **DR & IR Automation** – Built an advanced **DR playbook** for cloud and on-prem systems using **Acronis DR (Cloud)** and **PBS (HA)**, achieving low RTO/RPO and automated recovery.  
+- **Threat Hunting & Forensics** – Conduct investigations using **MITRE ATT&CK** and **Cyber Kill Chain**, and created Python automation tools for IP/signature scanning via VirusTotal API.  
+- **Modern Authentication Projects** – Implemented SSO and secure OAuth authentication workflows across multiple applications.  
+
+---
+
+## 📂 Selected GitHub Repos
+
+- **[CTI-IP-Scanner](https://github.com/yahyaelourdighi/CTI-IP-Scanner)** – Python tool for IP reputation analysis via VirusTotal API.  
+- **[CTI-Malware Scanner](https://github.com/yahyaelourdighi/malwarescanner)** – Python malware hash analysis using VirusTotal API.  
+- **[UpRobot](https://github.com/yahyaelourdighi/uprobot)** – Website monitoring tool checking uptime status.  
+- **[cires-soc-challenge](https://github.com/yahyaelourdighi/cires-soc-challenge)** – Mini SOC technical challenge repo.  
 
 ---
 
 ## 📫 Connect with Me
+- Email: yahyaelourdighi.cyber@gmail.com  
+- LinkedIn: [Yahya EL OURDIGHI](https://www.linkedin.com/in/yahya-el-ourdighi)  
 
-- **Email:** [yahyaelourdighi.cyber@gmail.com](mailto:yahyaelourdighi.cyber@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yahyaelourdighi)
-
-> *“Security is not a product, but a process.”*  
-> – **Bruce Schneier**
-
----
-
-<!-- Footer: Optional links or call-to-actions -->
-[![GitHub followers](https://img.shields.io/github/followers/yahyaelourdighi?label=Follow&style=social)](https://github.com/yahyaelourdighi)
+*"Security is not a product, but a process."* – Bruce Schneier
